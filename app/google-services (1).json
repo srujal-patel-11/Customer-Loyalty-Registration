@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142048776797",
+    "project_id": "customer-loyalty-registr-d18c5",
+    "storage_bucket": "customer-loyalty-registr-d18c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142048776797:android:59e682c91cfee873feb3b4",
+        "android_client_info": {
+          "package_name": "com.example.customerloyaltyregistrationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzQe65aM2VBA_Op8oG-45UPmjKYs0QGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
